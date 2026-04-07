@@ -1,0 +1,3 @@
+<script src="pdf.js"></script>
+<script src="pdf.worker.js"></script>
+<script src="stpageflip.js"></script>
